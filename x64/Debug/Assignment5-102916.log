@@ -1,0 +1,6 @@
+﻿  WordFont.cpp
+e:\suny-files\fall 2016\cis554\assignments\05\wordfont.cpp(134): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Assignment5-102916.vcxproj -> E:\SUNY-Files\Fall 2016\CIS554\Assignments\05\x64\Debug\Assignment5-102916.exe
+  Assignment5-102916.vcxproj -> E:\SUNY-Files\Fall 2016\CIS554\Assignments\05\x64\Debug\Assignment5-102916.pdb (Full PDB)
